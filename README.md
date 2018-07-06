@@ -1,1 +1,3 @@
-pi-love-ai-book
+# AI books
+
+The book with some exciting AI project on Raspberry PI
